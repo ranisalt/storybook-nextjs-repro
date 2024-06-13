@@ -1,0 +1,5 @@
+{
+  "name": "my-workspaces-powered-project",
+  "workspaces": ["web", "storybook-utils"],
+  "private": true
+}

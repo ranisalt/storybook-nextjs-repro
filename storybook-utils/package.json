@@ -1,0 +1,11 @@
+{
+  "name": "@my-scope/storybook-utils",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.ts",
+  "sideEffects": false,
+  "dependencies": {
+    "@storybook/addon-essentials": "8.1.8",
+    "@storybook/nextjs": "8.1.8"
+  }
+}
